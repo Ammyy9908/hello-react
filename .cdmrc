@@ -1,7 +1,7 @@
 # terminals
 terminals:
     [
-        `npm install --force`
+        'npm install --force'
     ]
 # other config
 tabs: ['src/App.js']
