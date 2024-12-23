@@ -1,7 +1,7 @@
 # terminals
 terminals:
     [
-        `npm i`
+        `npm install --force`
     ]
 # other config
 tabs: ['src/App.jsx']
