@@ -1,0 +1,8 @@
+# terminals
+terminals:
+    [
+        `npm i`
+    ]
+# other config
+tabs: ['src/App.jsx']
+run-button: npm start
