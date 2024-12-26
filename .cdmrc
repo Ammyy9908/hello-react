@@ -4,5 +4,5 @@ terminals:
         'npm install --force'
     ]
 # other config
-tabs: ['src/App.js']
-run-button: npm start
+tabs: ['src/App.jsx']
+run-button: npm run dev
