@@ -1,7 +1,7 @@
 # terminals
 terminals:
     [
-        
+        'echo "Hello World!"'
     ]
 # other config
 tabs: ['src/App.jsx']
